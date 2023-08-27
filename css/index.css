@@ -1,6 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap');
 :root {
-    --color-primario: blue;
+    /* Palette */
+    --primary-solid: #FF3333;
+    --primary-900: rgba(255, 51, 51, 0.9);
+    --primary-500: rgba(255, 51, 51, 0.5);
+    --primary-300: rgba(255, 51, 51, 0.3);
+
+    --secondary-solid: #1D84B5;
+    --secondary-900: rgba(29, 132, 181, 0.9);
+    --secondary-500: rgba(29, 132, 181, 0.5);
+    --secondary-300: rgba(29, 132, 181, 0.3);
+
+    --primary-solid: #1F1F1F;
+    --primary-900: rgba(31, 31, 31, 0.9);
+    --primary-500: rgba(31, 31, 31, 0.5);
+    --primary-300: rgba(31, 31, 31, 0.3);
+    
+    --dark-bg-solid:#30343F;
+    --light-bg-solid: #FAFAFF;
+    
+    /*Typography*/
+    --base-font: 'Inter', sans-serif;
+    --alternative-font:'Raleway', sans-serif;
+
+    /*Font-sizes*/
 }
 
 *, 
